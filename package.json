@@ -1,0 +1,21 @@
+{
+   "name": "mysrcb",
+   "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "build": "echo \"No build specified\" && exit 1",
+        "test": "echo \"No test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/falanadikhana1/mysrcb/tree/Cyclic.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/falanadikhana1/mysrcb/tree/Cyclic.issues"
+    },
+    "homepage": "https://github.com/falanadikhana1/mysrcb/tree/Cyclic#readme"
+}
+ 
